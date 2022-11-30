@@ -12,7 +12,6 @@ public class Main {
         int minimalDaySalary;
         int maximumDaySalary;
         double averageDaySalary;
-
         int randomSalary[]= generateRandomArray(daysInMounth, minimalRandomSalary, maximumRandomSalary);
 
         System.out.println("Part1");
