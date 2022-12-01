@@ -46,8 +46,6 @@ public class Main {
         for (int i = reverseSurname.length-1; i >= 0; i--) {
             System.out.print(reverseSurname[i]);
         }
-
-
     }
     public static int[] generateRandomArray(int days, int minSalary , int maxSalary) {
         java.util.Random random = new java.util.Random();
